@@ -1,0 +1,3 @@
+vektor<-rnorm(30)
+vektor<-vektor[vektor>0 & vektor<1]
+vektor
