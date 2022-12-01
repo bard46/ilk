@@ -1,0 +1,3 @@
+data(cars)
+
+plot(cars)
